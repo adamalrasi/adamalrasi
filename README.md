@@ -1,4 +1,4 @@
-![Github banner (2)](https://github.com/adamalrasi/CompassUK/assets/147779056/bc711587-f025-41e9-88d0-11e0c20e199f)
+![Github banner](https://github.com/adamalrasi/CompassUK/assets/147779056/df7f6f7c-92f6-498b-8941-95755fd9fb9a)
 
 
 

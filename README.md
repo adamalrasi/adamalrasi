@@ -1,4 +1,4 @@
-![Github banner](https://github.com/adamalrasi/CompassUK/assets/147779056/d5048c61-5ebd-434a-8618-b3f27fc37579)
+![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
 
 
 

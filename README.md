@@ -29,9 +29,9 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                          |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
-| AdamAi OpenAi Image Generator | React, OpenAi, Dall-E, TailwindCSS       | [Github]([https://github.com/](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator))                                        | [Demo](https://adamaiimage.adamalrasi.com/)                  |
+| AdamAi OpenAi Image Generator | React, OpenAi, Dall-E, TailwindCSS       | [Github](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator)                                        | [Demo](https://adamaiimage.adamalrasi.com/)                  |
 | My Portfolio Website   | Vite, React, TailwindCSS                             | [Github](https://github.com/adamalrasi/MyPortfolio)                  | [Demo](https://adamalrasi.com)                |
-| AdamAi Ultimate Article Summarizer | React, RapidAPI, TailwindCSS, OpenAi | [Github]([https://github.com/](https://github.com/adamalrasi/AdamAi__Ultimate-Article-Summarizer/settings))                                        | [Demo](https://adamaiarticle.adamalrasi.com)                |
+| AdamAi Ultimate Article Summarizer | React, RapidAPI, TailwindCSS, OpenAi | [Github](https://github.com/adamalrasi/AdamAi__Ultimate-Article-Summarizer/settings)                                        | [Demo](https://adamaiarticle.adamalrasi.com)                |
 | 3D Product Website     |  React, TailwindCSS                             | [Github](https://github.com/adamalrasi/AdamAi__3D-Product-Website)   | [Demo](https://3dproduct.adamalrasi.com)                |
 | AdamAi Funniest Coding Ai ChatBot | OpenAI, JavaScript, Node.js, Express.js, HTML/CSS | [Github](https://github.com/adamalrasi/AdamAi__Funniest-Coding-Ai-ChatBot)                                        | [Demo](https://adamai.adamalrasi.com)                |
 

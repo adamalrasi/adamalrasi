@@ -10,7 +10,7 @@
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 </div>
 <div align="center"> 
-👋 Hello there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
+👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 
 My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
 </div>

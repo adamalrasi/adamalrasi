@@ -52,7 +52,6 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   <a href="https://github.com/adamalrasi"><img alt="Adam Alrasi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adamalrasi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
 -->
 
 

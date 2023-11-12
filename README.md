@@ -6,7 +6,7 @@
 <div align="center">
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logoColor=blue)](https://adamalrasi.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamalrasi/)
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 </div>
 <div align="center"> 

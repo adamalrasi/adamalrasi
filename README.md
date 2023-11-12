@@ -44,10 +44,10 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 ## 📄 Team Projects
 <div align="center"> 
   
-|Project                 | Tech                          | Repo                                                                    |   Link                                              |
-|:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
+|Project                 | Tech                          | Repo                              |  Team Members                       |   Link                                              |
+|:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)                                           | [Demo]()                                            |
-| Project 2              |  React, CSS                   | [Github](https://github.com/)                                           | [None]                                              |
+| Bootcamper Journal     |  React, CSS                   | [Github](https://github.com/)                                           | [None]                                              |
   
 </div>
 <!--

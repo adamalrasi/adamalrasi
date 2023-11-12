@@ -32,7 +32,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 | News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://adamalrasi.com)                |
   
 </div>
-<hr>
+
 
 
 ## 📄 Team Projects

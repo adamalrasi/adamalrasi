@@ -47,7 +47,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 |Project                 | Tech                          | Repo                              |  Link                       |   Team Members                                              |
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo]()                               | [Demo]()                                            |
-| Bootcamper Journal     |  React, CSS                   | [Github](https://github.com/)     | [Demo]()         | [Jordan](https://github.com/Jordan-Walters-23), [Jordan](https://github.com/Jordan-Walters-23),[Jordan](https://github.com/Jordan-Walters-23), [Jordan](https://github.com/Jordan-Walters-23)                                             |
+| Bootcamper Journal     |  React, CSS                   | [Github](https://github.com/)     | [Demo]()         | [Jordan](https://github.com/Jordan-Walters-23), [Jordan](https://github.com/Jordan-Walters-23), [Jordan](https://github.com/Jordan-Walters-23), [Jordan](https://github.com/Jordan-Walters-23)                                             |
   
 </div>
 <!--

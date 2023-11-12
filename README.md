@@ -25,7 +25,8 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 | Project 1              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [Demo](https://github.com/)                 |
 | Project 2              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [None]                                      |
 | Project 3              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [None]                                      |
-  
+| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
+   
 </div>
 
 

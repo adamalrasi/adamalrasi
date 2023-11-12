@@ -1,6 +1,13 @@
 ![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
+
+<div align="center">
+  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=BE5EA4)](https://adamalrasi.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
+[![Twitter](https://img.shields.io/badge/twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cii_siq)
+</div>
 <div align="center"> 
-👋 Hi, I’m Cintia!
+👋 Hi there, I'm Adam!
 
 👩‍💻 Software Developer | Front-End Enthusiast | Continuous Learner 📚<br>
 📅 Software Engineer since November 2021 | Open to New Opportunities 🚀<br>

@@ -7,7 +7,7 @@
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white)](https://adamalrasi.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamalrasi/)
-[![Contact@adamalrasi.com](https://img.shields.io/badge/email-f05656?style=for-the-badge&logo=email&logoColor=white)](https://www.codewars.com/users/adamalrasi)
+[![Email](https://img.shields.io/badge/contact@adamalrasi.com-f05656?style=for-the-badge&logo=email&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 </div>
 <div align="center"> 

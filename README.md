@@ -41,7 +41,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 
 
 <div align="center"> 
-<h3>📄Team Projects</h3>
+<h3>📄 Team Projects</h3>
   
 |Project                 | Tech                          | Repo                                                                    |   Link                                              |
 |:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
@@ -53,4 +53,5 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 </div>
  
 <hr>
+
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)

@@ -54,6 +54,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 | The A-Team Project      |  Vite, React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew),  [Abdul](https://github.com/Abdulqadir90)                                       | 
 | Cats Project      |  JavaScript, HTML/CSS, Figma/FigJam, UI/UX | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Siyu](https://github.com/siyuduan2023),  [Olivia](https://github.com/Livi-96)                                       |
 | League of Smurfs      |  JavaScript, HTML/CSS, Draw.io, MySQL, REST API | [Private Github](https://github.com/adamalrasi)     | [None]() | [Tom](https://github.com/tWardle6),  [Alex](https://github.com/RobearP)                                       |
+| The Daily Coder API      |  JavaScript, CRUD, API Development, Node.js, Express.js | [Private Github](https://github.com/adamalrasi)     | [None]() | [Faizan](https://github.com/Faizanh7)                                       |
 | API & End-to-end Testing      |  Node.js, TDD (Test-Driven Development), Playwright, Supertest, Vitest | [Private Github](https://github.com/adamalrasi)     | [None]() | [Martina](https://github.com/MartiZu),  [Rad](https://github.com/radswar)                                       |
   
 </div>

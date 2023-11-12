@@ -47,8 +47,8 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 |Project                 | Tech                          | Repo                              |  Link                       |   Team Members                                              |
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo]()                               | [Team Member]()                                            |
-| Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://youtu.be/BZvi1ARAuV4)     | [Demo](https://youtu.be/BZvi1ARAuV4)         | [Wendy](https://github.com/wendyrich63) ,  [Jordan](https://github.com/Jordan-Walters-23) ,  [Kat](https://github.com/KatBaginska) ,  [Matthew](https://github.com/mattkirke) ,  [James](https://github.com/jamesdiffeycoding)    |
-| The A-Team Project      |  React, CSS | [Github](https://github.com/)     | [Demo]()                               | [Andy](https://github.com/carey-andrew) ,  [Abdul](https://github.com/Abdulqadir90)                                       |
+| Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://youtu.be/BZvi1ARAuV4)     | [Youtube Demo](https://youtu.be/BZvi1ARAuV4)         | [Wendy](https://github.com/wendyrich63) ,  [Jordan](https://github.com/Jordan-Walters-23) ,  [Kat](https://github.com/KatBaginska) ,  [Matthew](https://github.com/mattkirke) ,  [James](https://github.com/jamesdiffeycoding)    |
+| The A-Team Project      |  React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew) ,  [Abdul](https://github.com/Abdulqadir90)                                       |
   
 </div>
 <!--

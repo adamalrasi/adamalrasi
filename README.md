@@ -12,7 +12,7 @@
 <div align="center"> 
 👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 
-My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
+My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web/mobile applications.
 </div>
 
 <br>

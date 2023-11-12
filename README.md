@@ -48,8 +48,8 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Big 4 Week Project  |  React, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo]()                               | [Team Member]()                                            |
 | Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://youtu.be/BZvi1ARAuV4)     | [Youtube Demo](https://youtu.be/BZvi1ARAuV4)         | [Wendy](https://github.com/wendyrich63) ,  [Jordan](https://github.com/Jordan-Walters-23) ,  [Kat](https://github.com/KatBaginska) ,  [Matthew](https://github.com/mattkirke) ,  [James](https://github.com/jamesdiffeycoding)    |
-| The A-Team Project      |  Vite, React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Siyu](https://github.com/siyuduan2023) ,  [Olivia](https://github.com/Abdulqadir90)                                       | 
-| Team Cats Website      |  JavaScript, HTML/CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew) ,  [Olivia](https://github.com/Livi-96)                                       |
+| The A-Team Project      |  Vite, React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew) ,  [Olivia](https://github.com/Abdulqadir90)                                       | 
+| Team Cats Project      |  JavaScript, HTML/CSS, Figma/FigJam, Ui/Ux | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Siyu](https://github.com/siyuduan2023) ,  [Olivia](https://github.com/Livi-96)                                       |
   
 </div>
 

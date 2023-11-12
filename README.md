@@ -27,7 +27,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 ## 📄 My Most Recent Projects
 <div align="center"> 
   
-|Project                 | Tech                                             | Repo                                                                 | Link                                          |
+|Project                 | Tech Stack                                       | Repo                                                                 | Link                                          |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
 | AdamAi OpenAi Image Generator | React, OpenAi, Dall-E, TailwindCSS       | [Github](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator)                                        | [Demo](https://adamaiimage.adamalrasi.com/)                  |
 | My Portfolio Website   | Vite, React, TailwindCSS                             | [Github](https://github.com/adamalrasi/MyPortfolio)                  | [Demo](https://adamalrasi.com)                |
@@ -44,7 +44,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 ## 📄 Team Projects
 <div align="center"> 
   
-|Project                 | Tech                          | Repo                              |  Link                       |   Team Members                                              |
+|Project                 | Tech Stack                    | Repo                              |  Link                       |   Team Members                                              |
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Big 4 Week Project  |  React, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo]()                               | [Team Member]()                                            |
 | Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://youtu.be/BZvi1ARAuV4)     | [Youtube Demo](https://youtu.be/BZvi1ARAuV4)         | [Wendy](https://github.com/wendyrich63),  [Jordan](https://github.com/Jordan-Walters-23),  [Kat](https://github.com/KatBaginska),  [Matthew](https://github.com/mattkirke),  [James](https://github.com/jamesdiffeycoding)    |

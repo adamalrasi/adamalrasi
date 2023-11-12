@@ -30,9 +30,11 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 |Project                 | Tech Stack                                       | Repo                                                                 | Link                                          |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
+| Full Stack Dashboard | React, TailwindCSS, MongoDB, Node.js, Express.js       | [Github](https://github.com/adamalrasi/FullStack__React-Dashboard)                                        | [None](https://adamaiimage.adamalrasi.com/)                  |
+| UAE Real Estate Website | Vite@React, RapidAPIs, TailwindCSS, Not done yet             | [Github](https://github.com/adamalrasi/UAERealEstate__RapidAPI-Website)                      | [None](https://realestateUAE.adamalrasi.com/)                  |
 | AdamAi OpenAi Image Generator | React, OpenAi, Dall-E, TailwindCSS       | [Github](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator)                                        | [Demo](https://adamaiimage.adamalrasi.com/)                  |
 | My Portfolio Website   | Vite, React, TailwindCSS                             | [Github](https://github.com/adamalrasi/MyPortfolio)                  | [Demo](https://adamalrasi.com)                |
-| AdamAi Ultimate Article Summarizer | React, RapidAPI, TailwindCSS, OpenAi | [Github](https://github.com/adamalrasi/AdamAi__Ultimate-Article-Summarizer/)                                        | [Demo](https://adamaiarticle.adamalrasi.com)                |
+| AdamAi Ultimate Article Summarizer | React, RapidAPIs, TailwindCSS, OpenAi | [Github](https://github.com/adamalrasi/AdamAi__Ultimate-Article-Summarizer/)                                        | [Demo](https://adamaiarticle.adamalrasi.com)                |
 | 3D Product Website     |  React, TailwindCSS                             | [Github](https://github.com/adamalrasi/AdamAi__3D-Product-Website)   | [Demo](https://3dproduct.adamalrasi.com)                |
 | AdamAi Funniest Coding Ai ChatBot | OpenAI, JavaScript, Node.js, Express.js, HTML/CSS | [Github](https://github.com/adamalrasi/AdamAi__Funniest-Coding-Ai-ChatBot)                                        | [Demo](https://adamai.adamalrasi.com)                |
 

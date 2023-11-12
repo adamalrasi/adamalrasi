@@ -33,7 +33,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 </div>
 
-
+<hr>
 
 ## 📄 Team Projects
 <div align="center"> 
@@ -44,3 +44,4 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 | Project 2              |  React, CSS                   | [Github](https://github.com/)                                           | [None]                                              |
   
 </div>
+<hr>

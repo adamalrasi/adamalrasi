@@ -13,8 +13,9 @@
 My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
 </div>
 
+<hr>
 <br>
-<div align="center" style="background:red"> 
+<div align="center"> 
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
@@ -43,17 +44,4 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 | Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)                                           | [Demo]()             |
 | Project 2              |  React, CSS                   | [Github](https://github.com/)                                           | [None]                                              |
   
-</div>
- 
-<hr>
-<div align="center"> 
-
-<a> 
-
-  ![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&top_languages=true)
-
-</a>
-
-[![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
-
 </div>

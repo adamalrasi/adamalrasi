@@ -17,14 +17,14 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 
 
 
-<h3>📄 Team Projects</h3>
+<h3>📄 My Most Recent Projects</h3>
 <div align="center"> 
   
-|Project                 | Tech                                             | Repo                                                                 | Link                                                              |
-|:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
-| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
-| My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
-| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
+|Project                 | Tech                                             | Repo                                                                 | Link                                          |
+|:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
+| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://adamalrasi.com)                |
+| My Portfolio Website   |  React, TailwindCSS                              | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://adamalrasi.com)                |
+| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://adamalrasi.com)                |
   
 </div>
 <hr>

@@ -2,7 +2,11 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=adamalrasi)
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
-
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user="adamalrasi" />
+    </a>
+</p>
 
 
 

@@ -8,19 +8,16 @@
 [![Twitter](https://img.shields.io/badge/twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cii_siq)
 </div>
 <div align="center"> 
-👋 Hi there, I'm Adam!
+👋 Hello there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 
-👩‍💻 Software Developer | Front-End Enthusiast | Continuous Learner 📚<br>
-📅 Software Engineer since November 2021 | Open to New Opportunities 🚀<br>
-🎓 Pursuing a Degree in System Analysis and Development at Unicesumar 📖<br>
-💼 Recent Graduate of Codeworks 🚀<br>
+My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
 </div>
 <br>
   
 
 
 
-## 📄 Passion Projects
+## 📄 My Most Recent Projects
 <div align="center"> 
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                                              |

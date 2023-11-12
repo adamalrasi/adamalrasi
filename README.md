@@ -1,12 +1,8 @@
 ![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
 
 ![Codewars](https://github.r2v.ch/codewars?user=adamalrasi)
-[![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=adamalrasi" />
-    </a>
-</p>
+[![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%35bbcbff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
+
 
 
 

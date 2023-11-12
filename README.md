@@ -48,15 +48,18 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Big 4 Week Project  |  React, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo]()                               | [Team Member]()                                            |
 | Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://youtu.be/BZvi1ARAuV4)     | [Youtube Demo](https://youtu.be/BZvi1ARAuV4)         | [Wendy](https://github.com/wendyrich63) ,  [Jordan](https://github.com/Jordan-Walters-23) ,  [Kat](https://github.com/KatBaginska) ,  [Matthew](https://github.com/mattkirke) ,  [James](https://github.com/jamesdiffeycoding)    |
-| The A-Team Project      |  Vite, React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew) ,  [Abdul](https://github.com/Abdulqadir90)                                       |
+| The A-Team Project      |  Vite, React, CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Siyu](https://github.com/siyuduan2023) ,  [Olivia](https://github.com/Abdulqadir90)                                       | 
+| Team Cats Website      |  JavaScript, HTML/CSS | [Private Github](https://github.com/adamalrasi)     | [None]()                               | [Andy](https://github.com/carey-andrew) ,  [Olivia](https://github.com/Livi-96)                                       |
   
 </div>
 
+<!--
 <a> 
     <a href="https://github.com/adamalrasi"><img alt="Adam Alrasi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adamalrasi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/adamalrasi"><img alt="Adam Alrasi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adamalrasi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+-->
 
 
 <br>

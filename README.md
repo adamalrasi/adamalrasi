@@ -1,6 +1,6 @@
 ![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
 
-![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=adamalrasi)
 
 
 

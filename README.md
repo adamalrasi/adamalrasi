@@ -1,12 +1,6 @@
 <!-- Here are some ideas to get you started: 9 -->
 <div>
 
-<div style="display:none;">
-  
-  ![Adam Alrasi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamalrasi&custom_title=Adam%20Alrasi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-</div>
-
 ![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
 
 <div align="center">

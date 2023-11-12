@@ -16,8 +16,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 <br>
 
 
-## 📄 Projects
-<h3>📄 My Most Recent Projects</h3>
+## 📄 My Most Recent Projects
 <div align="center"> 
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                          |
@@ -30,7 +29,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 <hr>
 
 
-<h3>📄 Team Projects</h3>
+## 📄 Team Projects
 <div align="center"> 
   
 |Project                 | Tech                          | Repo                                                                    |   Link                                              |

@@ -5,9 +5,9 @@
 
 <div align="center">
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=BE5EA4)](https://adamalrasi.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-f05656?style=for-the-badge&logoColor=white)](https://adamalrasi.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
-[![Twitter](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
+[![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 </div>
 <div align="center"> 
 👋 Hello there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 

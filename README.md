@@ -29,9 +29,9 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                          |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
-| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://adamalrasi.com)                |
-| My Portfolio Website   |  React, TailwindCSS                              | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://adamalrasi.com)                |
-| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://adamalrasi.com)                |
+| To do List             |  Javascript, CSS                                 | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
+| My Portfolio Website   |  React, TailwindCSS                              | [Github](https://github.com/adamalrasi/MyPortfolio)                  | [Demo](https://adamalrasi.com)                |
+| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
   
 </div>
 
@@ -43,7 +43,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 |Project                 | Tech                          | Repo                                                                    |   Link                                              |
 |:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
-| Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)                                           | [Demo]()             |
+| Project 1              |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/)                                           | [Demo]()                                            |
 | Project 2              |  React, CSS                   | [Github](https://github.com/)                                           | [None]                                              |
   
 </div>

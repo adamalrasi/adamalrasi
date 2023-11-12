@@ -13,7 +13,6 @@
 My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
 </div>
 
-<hr>
 <br>
 <div align="center"> 
 

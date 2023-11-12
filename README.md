@@ -13,6 +13,16 @@
 My ultimate goal✨ is to become a Senior Software Engineer by leading and mentoring other developers, and by building and maintaining large-scale web applications.
 </div>
 <br>
+## 📄 Projects
+<div align="center"> 
+  
+|Project                 | Tech                                             | Repo                                                                 | Link                                                              |
+|:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
+| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
+| My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
+| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
+  
+</div>
   
 
 

@@ -29,10 +29,13 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                          |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------|
-| To do List             |  Javascript, CSS                                 | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
+| AdamAi__OpenAi-Image-Generator | React, OpenAi, Dall-E, TailwindCSS       | [Github]([https://github.com/](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator))                                        | [Demo](https://adamaiimage.adamalrasi.com/)                  |
 | My Portfolio Website   |  React, TailwindCSS                              | [Github](https://github.com/adamalrasi/MyPortfolio)                  | [Demo](https://adamalrasi.com)                |
-| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
-  
+| 3D Product Website     |  React, TailwindCSS                              | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
+| 3D Product Website     |  React, TailwindCSS                              | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
+| 3D Product Website     |  React, TailwindCSS                              | [Github](https://github.com/)                                        | [Demo](https://adamalrasi.com)                |
+
+
 </div>
 
 <br>

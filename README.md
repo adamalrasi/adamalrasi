@@ -41,7 +41,8 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
  
 <hr>
 <div align="center"> 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&cache_control=86400)
+  
+![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400)
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 

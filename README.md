@@ -19,14 +19,17 @@ My ultimate goal✨ is to become a Senior Software Engineer by leading and mento
 
 ## 📄 My Most Recent Projects
 <div align="center"> 
+
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:-----------------------------------   ------|
 | Project 1              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [Demo](https://github.com/)                 |
 | Project 2              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [None]                                      |
 | Project 3              |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/)                                        | [None]                                      |
+| My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
 | News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
-   
+
+  
 </div>
 
 

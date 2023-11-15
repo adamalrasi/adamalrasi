@@ -21,9 +21,8 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
-<br> 
 
-<h2>Codewars: My Completed Solutions </h2>
+<h3>Codewars: My Completed Solutions </h3>
 
 |Programming Language          | Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|

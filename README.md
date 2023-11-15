@@ -29,7 +29,6 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 | TypeScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |
 
 </div>
-<br>
 
 
 ## 📄 My Most Recent Projects

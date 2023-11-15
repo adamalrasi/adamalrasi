@@ -1,7 +1,7 @@
 <!-- Here are some ideas to get you started: 9 -->
 <div>
 
-![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)
+[![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)](https://adamalrasi.com)
 
 <div align="center">
   

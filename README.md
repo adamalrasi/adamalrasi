@@ -24,7 +24,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 
 <h3>Codewars: My Completed Solutions </h3>
 
-|Programming Language          | Repo                                                                               |
+|Programming Language          | Github Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|
 | JavaScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
 | TypeScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |

@@ -26,6 +26,12 @@ Completed JavaScript Codewars Solutions Repo:
 
 [Codewars JavaScript Repo](https://www.github.com/adamalrasi/Codewars__Completed-Javascript-Katas)
 
+Codewars: My Completed Solutions 
+|Programming Language          | Repo                                                                               |
+|:-----------------------|:-------------------------------------------------|
+| Full Stack Dashboard | [Github](https://github.com/adamalrasi/FullStack__React-Dashboard)                                        |
+| Full Stack Dashboard | [Github](https://github.com/adamalrasi/FullStack__React-Dashboard)                                        |
+
 <br>
 
 

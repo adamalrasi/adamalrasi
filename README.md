@@ -22,9 +22,9 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
 </div>
-Here is a link is my Codewars Solutions
+Completed JavaScript Codewars Solutions Repo: 
 
-[Codewars Repo](https://www.github.com/adamalrasi/Codewars__Completed-Javascript-Katas)
+[Codewars JavaScript Repo](https://www.github.com/adamalrasi/Codewars__Completed-Javascript-Katas)
 
 <br>
 

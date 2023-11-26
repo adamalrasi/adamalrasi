@@ -28,8 +28,6 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 | JavaScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
 | TypeScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |
 
-<br>
-<br>
 <h3>LeetCode: Account Stats </h3>
 
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)

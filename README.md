@@ -31,7 +31,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 <br>
 <br>
 
-![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/alrasi?theme=light,unicorn)
+![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=light,unicorn)
 
 <br>
 <br>

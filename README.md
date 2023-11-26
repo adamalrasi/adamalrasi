@@ -32,7 +32,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 <br>
 <h3>LeetCode: Account Stats </h3>
 
-![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=wtf)
+![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=forest)
 
 <br>
 <br>

@@ -34,7 +34,6 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 -->
 </div>
 <br>
-<br>
 
 ## 📄 My Most Recent Projects
 <div align="center"> 

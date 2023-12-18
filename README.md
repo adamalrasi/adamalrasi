@@ -9,14 +9,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamalrasi/)
 [![Email](https://img.shields.io/badge/contact@adamalrasi.com-ab8065?style=for-the-badge&logo=none&logoColor=white)]()
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
-</div>
-<div align="center"> 
+
 👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 
 My ultimate goal✨ is to become a Senior Software Engineer by continuously learning and leading other developers, and also by building and maintaining large-scale web/mobile applications.
-</div>
 
-<div align="center"> 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 

@@ -21,12 +21,15 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
-<h3>Codewars: My Completed Solutions </h3>
+(https://badges.peiyuan.ch/leetcode/alrasi/name) 
+
+<h3>My Completed Solutions </h3>
 
 |Programming Language          | Github Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|
-| JavaScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
-| TypeScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |
+| JavaScript | [Codewars Solutions](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
+| TypeScript | [Codewars Solutions](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |
+| JavaScript | [LeetCode Solutions](https://github.com/adamalrasi/LeetCode__Solved-Solutions)                                        |
 <!--
 <h3>LeetCode: Account Stats </h3>
 

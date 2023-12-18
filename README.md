@@ -56,7 +56,7 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 ## 📄 Team Projects
 <div align="center"> 
   
-|Project                 | Tech Stack                    | Repo                              |  Link                       |   Team Members                                              |
+|Project                 | Tech Stack                    | Repo                              |  Link                       |   Collaborators                                              |
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | Bookmarkd -  by readers, for readers  |  Incomplete--, React, Prisma, Tailwinds | [Github](https://github.com/)     | [Demo](https://bookmarkd-ruddy.vercel.app/)                               | [James Robertson](https://github.com/JamesAARobertson), [Hannah McCabe](https://github.com/HannahMcCabe31), [Ameenah Jalil](https://github.com/AmeenahJalil), [Jon Kelly](https://github.com/dredwerkz)                                            |
 | Bootcamper Journal     |  JavaScript, HTML/CSS, MySQL, Node.js, Express.js | [Github](https://github.com/adamalrasi/Bootcamper-Journal)     | [Youtube Demo](https://youtu.be/Tm1qazjHXms)         | [Wendy Richardson](https://github.com/wendyrich63),  [Jordan Walters](https://github.com/Jordan-Walters-23),  [Katarzyna Baginska](https://github.com/KatBaginska),  [Matthew Kirke](https://github.com/mattkirke),  [James Diffey](https://github.com/jamesdiffeycoding)    |

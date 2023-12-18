@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamalrasi/)
 [![Email](https://img.shields.io/badge/contact@adamalrasi.com-ab8065?style=for-the-badge&logo=none&logoColor=white)]()
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adamalrasi)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adamalrasi)
 
 👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 

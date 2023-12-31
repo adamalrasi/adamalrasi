@@ -1,6 +1,6 @@
 <!-- Here are some ideas to get you started: 43 -->
 <div>
-
+  
 [![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)](https://adamalrasi.com)
 
 <div align="center">
@@ -12,12 +12,12 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adamalrasi)
 
 👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
-
 My ultimate goal✨ is to become a Senior Software Engineer by continuously learning and leading other developers, and also by building and maintaining large-scale web/mobile applications.
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 
 <h3>My Completed Solutions </h3>
 

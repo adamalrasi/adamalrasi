@@ -15,11 +15,9 @@
 
 My ultimate goal✨ is to become a Senior Software Engineer by continuously learning and leading other developers, and also by building and maintaining large-scale web/mobile applications.
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
-
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 
 <h3>My Completed Solutions </h3>
 

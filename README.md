@@ -5,6 +5,9 @@
 
 [![Github banner](https://github.com/adamalrasi/adamalrasi/assets/147779056/60c4b98f-a1d0-47b2-8bc0-c0763fef11b1)](https://adamalrasi.com)
 
+![Github banner (1)](https://github.com/adamalrasi/adamalrasi/assets/147779056/011051eb-801c-4263-80f5-99a4e01274bd)
+
+
 
 <div align="center">
   
@@ -20,8 +23,6 @@ My ultimate goal✨ is to become a Senior Software Engineer by continuously lear
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
-
-![Github banner (1)](https://github.com/adamalrasi/adamalrasi/assets/147779056/011051eb-801c-4263-80f5-99a4e01274bd)
 
 <h3>My Completed Solutions </h3>
 

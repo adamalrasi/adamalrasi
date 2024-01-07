@@ -1,12 +1,7 @@
 <!-- Here are some ideas to get you started: 49 -->
 <div>
   
-[![Github banner](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e9b5087a-c683-418a-b61f-63a89eaee18a)](https://adamalrasi.com)
-
 [![Github banner](https://github.com/adamalrasi/adamalrasi/assets/147779056/60c4b98f-a1d0-47b2-8bc0-c0763fef11b1)](https://adamalrasi.com)
-
-![Github banner (1)](https://github.com/adamalrasi/adamalrasi/assets/147779056/011051eb-801c-4263-80f5-99a4e01274bd)
-
 
 
 <div align="center">

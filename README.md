@@ -11,7 +11,7 @@
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adamalrasi)
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
+![image](https://github.com/adamalrasi/adamalrasi/assets/147779056/6e9c15ac-32ec-47c7-9cc2-71063ea4e120) Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 <br>
 My ultimate goal✨ is to become a Senior Software Engineer by continuously learning and leading other developers, and also by building and maintaining large-scale web/mobile applications.
 

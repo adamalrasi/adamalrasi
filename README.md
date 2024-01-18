@@ -13,7 +13,7 @@
 
 👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
 <br>
-My ultimate goal✨ is to become a Senior Software Engineer by continuously learning and leading other developers, and also by building and maintaining large-scale web/mobile applications.
+My ultimate goal✨ is to keep improving my skillset as a Software Developer by continuously learning and leading other developers and building and maintaining large-scale web/mobile applications.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 

@@ -13,7 +13,8 @@
 
 👋 Hi there. I'm Adam, a Software Engineer,
 <br>
-embarking on an epic journey of coding adventures! 
+embarking on an epic journey of coding adventures!
+Always eager to connect and build cool stuff😎
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 

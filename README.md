@@ -30,17 +30,16 @@ Always open for connecting and building cool stuff 😎
 
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 <hr>
 <h1>Learnado - Make Grading Assignments Effortless</h1>
 <p>
-  <span> 
     
-  [Website Link](https://github.com/adamalrasi)
-</span> | 
-<span>
-
-[Github Repo](https://github.com/adamalrasi)
-</span></p>
+  [Website Link](https://github.com/adamalrasi) | [Github Repo](https://github.com/adamalrasi)
+  </p>
 <br>
 
 ![image](https://github.com/adamalrasi/adamalrasi/assets/147779056/2a2381df-1987-42b8-9a09-5efcb528c4fd)

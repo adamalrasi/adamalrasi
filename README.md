@@ -104,7 +104,7 @@ Always open for connecting and building cool stuff 😎
   
 |Author                 | Message                                       |
 |:-----------------------|:-------------------------------------------------|
-| Helen Abell | Contract Software Engineer | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates."       |
+| Helen Abell Contract Software Engineer | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates."       |
 | Jacob Field SOC Software Developer | "What sets Adam apart is not just his technical expertise but also his positive attitude and ability to boost team morale. Even in tough situations, he maintained a motivating environment, fostering collaboration among the team."      |
 
 

@@ -48,6 +48,7 @@ Always open for connecting and building cool stuff 😎
 <hr>
 <br>
 <hr>
+
 ## 📄 My Most Recent Passion Projects
 <div align="center"> 
   

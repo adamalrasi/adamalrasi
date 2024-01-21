@@ -30,11 +30,11 @@ Always open for connecting and building cool stuff 😎
 
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
-</div>
 <br>
 <h1>Learnado - Future of Learning, Designed for Today</h1>
 
 ![learnado-r2](https://github.com/adamalrasi/adamalrasi/assets/147779056/f3992486-9bf9-4582-9df2-994c89702455)
+</div>
 
 
 

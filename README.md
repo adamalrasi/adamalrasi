@@ -45,7 +45,7 @@ Always open for connecting and building cool stuff 😎
   <p>Test-Driven Development, Github Actions(Continuous Delivery/Continuous Deployment), Solid Design Principle</p>
 </div>
 </div>
-<hr>
+<!-- <hr> -->
 <br>
 <hr>
 

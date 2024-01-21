@@ -50,7 +50,7 @@ Always open for connecting and building cool stuff 😎
 <br>
 <hr>
 
-## 📄 Large Projects
+## 📄 Group Projects
 <div align="center"> 
   
 |Project                 | Tech Stack                    | Repo                              |  Link                       |   Collaborators                                              |

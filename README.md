@@ -33,7 +33,7 @@ Always open for connecting and building cool stuff 😎
 </div>
 <br>
 
-## 📄 My Most Recent Projects
+## 📄 My Most Recent Passion Projects
 <div align="center"> 
   
 |Project                 | Tech Stack                                       | Repo                                                                 | Link                                          |
@@ -50,7 +50,7 @@ Always open for connecting and building cool stuff 😎
 <br>
 <hr>
 
-## 📄 Team Projects
+## 📄 Large Projects
 <div align="center"> 
   
 |Project                 | Tech Stack                    | Repo                              |  Link                       |   Collaborators                                              |

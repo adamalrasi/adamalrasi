@@ -38,8 +38,8 @@ Always open for connecting and building cool stuff 😎
 ![image](https://github.com/adamalrasi/adamalrasi/assets/147779056/2a2381df-1987-42b8-9a09-5efcb528c4fd)
 
 <div>
-  <p>Tech Stack: TypeScript, React, TailwindCSS, Node.js</p>
-  <p>Test-Driven Development, Github Actions - Continuous Delivery/Continuous Deployment, Solid Design Principle</p>
+  <p>Tech Stack: TypeScript, React, TailwindCSS, Node.js, Express.js, MySQL, OAuth</p>
+  <p>Test-Driven Development, Github Actions(Continuous Delivery/Continuous Deployment), Solid Design Principle</p>
 </div>
 </div>
 <hr>

@@ -30,13 +30,13 @@ Always open for connecting and building cool stuff 😎
 
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
-
+<hr>
 <h2>Learnado - Make Grading Assignments Effortless</h2>
 
 
-</div>
-
 ![Learnado-r1](https://github.com/adamalrasi/adamalrasi/assets/147779056/eb5e93c4-0002-410e-a5a1-744dd6acfa1c)
+</div>
+<hr>
 <br>
 
 ## 📄 My Most Recent Passion Projects

@@ -24,7 +24,6 @@ Always open for connecting and building cool stuff 😎
 |Programming Language          | Github Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|
 | Codewars: JavaScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
-| Codewars: TypeScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Typescript-Katas)                                        |
 | LeetCode: JavaScript | [My Solutions Repo](https://github.com/adamalrasi/LeetCode__Solved-Solutions)                                        |
 <!--
 <h3>LeetCode: Account Stats </h3>

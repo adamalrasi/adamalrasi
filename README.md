@@ -99,13 +99,13 @@ Always open for connecting and building cool stuff 😎
 ![Adam Alrasi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamalrasi&custom_title=Adam%20Alrasi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 -->
 
-## 📄⭐🗣🙌 Testimonials
+## 🙌 Testimonials
 <div align="center"> 
   
 |Author                 | Message                                       |
 |:-----------------------|:-------------------------------------------------|
-| Helen Abell | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates."       |
-| Jacob Field | "What sets Adam apart is not just his technical expertise but also his positive attitude and ability to boost team morale. Even in tough situations, he maintained a motivating environment, fostering collaboration among the team."      |
+| Helen Abell | Contract Software Engineer | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates."       |
+| Jacob Field SOC Software Developer | "What sets Adam apart is not just his technical expertise but also his positive attitude and ability to boost team morale. Even in tough situations, he maintained a motivating environment, fostering collaboration among the team."      |
 
 
 

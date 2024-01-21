@@ -49,7 +49,7 @@ Always open for connecting and building cool stuff 😎
 <br>
 <hr>
 
-## 🔥 My Most Recent Passion Projects
+## 🔥 Most Recent Passion Projects
 <div align="center"> 
   
 |Project                 | Tech Stack                                       | Repo                                                                 | Link                                          |

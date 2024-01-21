@@ -32,11 +32,14 @@ Always open for connecting and building cool stuff 😎
 -->
 <hr>
 <h1>Learnado - Make Grading Assignments Effortless</h1>
+<br>
+<h3><span>Website Link</span> | <span>Github Repo</span></h3>
 
 ![image](https://github.com/adamalrasi/adamalrasi/assets/147779056/2a2381df-1987-42b8-9a09-5efcb528c4fd)
 
 </div>
 <hr>
+<br>
 
 ## 📄 My Most Recent Passion Projects
 <div align="center"> 

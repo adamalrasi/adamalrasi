@@ -13,7 +13,7 @@
 
 👋 Hi there. I'm Adam, a Software Engineer,
 <br>
-Always open for connecting and building cool stuff😎
+Always open for connecting and building cool stuff 😎
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 

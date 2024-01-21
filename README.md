@@ -31,6 +31,7 @@ Always open for connecting and building cool stuff 😎
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
 <hr>
+<h3>Most Recent Project</h3>
 <h1>Learnado - Make Grading Assignments Effortless</h1>
 <h3>
     
@@ -45,7 +46,7 @@ Always open for connecting and building cool stuff 😎
   <p>Test-Driven Development, Github Actions(Continuous Delivery/Continuous Deployment), Solid Design Principle</p>
 </div>
 </div>
-<!-- <hr> -->
+<hr>
 <br>
 <hr>
 

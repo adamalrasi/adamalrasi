@@ -11,9 +11,7 @@
 [![Codewars](https://img.shields.io/badge/codewars-f05656?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/adamalrasi)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adamalrasi)
 
-👋 Hi there. I'm Adam, a Software Engineer, ready to embark on an epic journey of coding adventures! 
-<br>
-My ultimate goal✨ is to keep improving my skillset as a Software Developer by continuously learning and leading other developers and building and maintaining large-scale web/mobile applications.
+👋 Hi there. I'm Adam, a Software Engineer, embarking on an epic journey of coding adventures! 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
 

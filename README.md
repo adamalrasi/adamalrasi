@@ -104,8 +104,8 @@ Always open for connecting and building cool stuff 😎
   
 |Author                 | Message                                       |
 |:-----------------------|:-------------------------------------------------|
-| [Helen Abell](https://www.linkedin.com/in/helen-abell/) | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates."       |
-| [Jacob Field](https://www.linkedin.com/in/jacob-field-683122186/) | "What sets Adam apart is not just his technical expertise but also his positive attitude and ability to boost team morale. Even in tough situations, he maintained a motivating environment, fostering collaboration among the team."      |
+| [Helen Abell](https://www.linkedin.com/in/helen-abell/) | "Adam is not afraid to dive into new technologies and figure out how they work. He has leveraged this skill to build an impressive portfolio, including projects integrating OpenAI. His curiosity and initiative also served him well when collaborating with teammates"       |
+| [Jacob Field](https://www.linkedin.com/in/jacob-field-683122186/) | "What sets Adam apart is not just his technical expertise but also his positive attitude and ability to boost team morale. Even in tough situations, he maintained a motivating environment, fostering collaboration among the team"      |
 | [Siyu Duan](https://www.linkedin.com/in/siyu-duan-2021/) | "Adam possesses excellent planning skills and plays a pivotal role in driving group discussions. What sets him apart is his ability to ensure that every team member's voice is heard, fostering an inclusive and collaborative environment."      |
 | [James Diffey](https://www.linkedin.com/in/jamesdiffey/) | "Adam was a fantastic colleague of mine that I'm glad to call a friend. From the start of the project we worked on together, he brought his initiative, a positive attitude, a willingness to away and research the topics we needed to learn more about."      |
 

@@ -31,7 +31,7 @@ Always open for connecting and building cool stuff 😎
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
 <hr>
-<h1>Learnado - Make Grading Assignments Effortless</h1>
+<h1>Learnado - Grading & Assignment Sharing Made Easy</h1>
 <h3>
     
   [🌐Website Link ](https://github.com/adamalrasi)  |  [ 🔮Github Repo ](https://github.com/) | [ 📝Learnado's Docs](https://github.com/adamalrasi)

@@ -95,9 +95,8 @@ Always open for connecting and building cool stuff 😎
 <br>
 <br>
 
-<!--
 ![Adam Alrasi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamalrasi&custom_title=Adam%20Alrasi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
+
 
 ## 🙌Testimonials
 <div align="center"> 

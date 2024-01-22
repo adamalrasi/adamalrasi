@@ -42,7 +42,7 @@ Always open for connecting and building cool stuff 😎
 
 <div>
   <p>Tech Stack: TypeScript, React, TailwindCSS, Node.js, Express.js, MySQL, OAuth</p>
-  <p>Test-Driven Development, Github Actions(Continuous Delivery/Continuous Deployment), Solid Design Principle</p>
+  <p>Test-Driven Development, Github Actions(Continuous Integration/Continuous Deployment), Solid Design Principle</p>
 </div>
 </div>
 <hr>

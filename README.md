@@ -21,7 +21,7 @@ Always open for connecting and building cool stuff 😎
 
 <h3>My Completed Solutions </h3>
 
-|Programming Challenage          | Github Repo                                                                               |
+|Programming Platform          | Github Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|
 | Codewars:  | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
 | LeetCode:  | [My Solutions Repo](https://github.com/adamalrasi/LeetCode__Solved-Solutions)                                        |

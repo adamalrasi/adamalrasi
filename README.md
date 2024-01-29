@@ -21,10 +21,10 @@ Always open for connecting and building cool stuff 😎
 
 <h3>My Completed Solutions </h3>
 
-|Programming Language          | Github Repo                                                                               |
+|Programming Challenage          | Github Repo                                                                               |
 |:-----------------------|:-------------------------------------------------|
-| Codewars: JavaScript | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
-| LeetCode: JavaScript | [My Solutions Repo](https://github.com/adamalrasi/LeetCode__Solved-Solutions)                                        |
+| Codewars:  | [My Solutions Repo](https://github.com/adamalrasi/Codewars__Completed-Javascript-Katas)                                        |
+| LeetCode:  | [My Solutions Repo](https://github.com/adamalrasi/LeetCode__Solved-Solutions)                                        |
 <!--
 <h3>LeetCode: Account Stats </h3>
 

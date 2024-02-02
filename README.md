@@ -15,7 +15,9 @@
 <br>
 Always open for connecting and building cool stuff 😎
 
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adamalrasi)](https://leetcode.com/adamalrasi)
+
 
 [![Codewars](https://github.r2v.ch/codewars?user=adamalrasi&cache_control=86400&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/adamalrasi)
 

@@ -32,6 +32,8 @@ Always open for connecting and building cool stuff 😎
 
 ![LeetCode Adam Alrasi](https://leetcard.jacoblin.cool/adamalrasi?theme=dark)
 -->
+
+<!--
 <hr>
 <h1>Learnado - Grading & Assignment Sharing Made Easy</h1>
 <h3>
@@ -49,8 +51,8 @@ Always open for connecting and building cool stuff 😎
 </div>
 <hr>
 <br>
+-->
 <hr>
-
 ## 🔥 Most Recent Passion Projects
 <div align="center"> 
   

@@ -48,11 +48,12 @@ Always open for connecting and building cool stuff 😎
   <p>Tech Stack: TypeScript, React, TailwindCSS, Node.js, Express.js, MySQL, OAuth</p>
   <p>Test-Driven Development, Github Actions(Continuous Integration/Continuous Deployment)</p>
 </div>
-</div>
 <hr>
 <br>
--->
 <hr>
+-->
+</div>
+
 ## 🔥 Most Recent Passion Projects
 <div align="center"> 
   

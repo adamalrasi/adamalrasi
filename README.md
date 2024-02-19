@@ -1,7 +1,7 @@
 <!-- Here are some ideas to get you started: 75 -->
 <div>
 
-[![Github banner](https://github.com/adamalrasi/adamalrasi/assets/147779056/18985143-30ef-407e-92dc-ba553d85dd3a)](https://adamalrasi.com)
+[![Github banner](https://github.com/adamalrasi/adamalrasi/assets/147779056/0a7a16f0-57b6-49ff-9d19-519f64bea901)](https://adamalrasi.com)
 
 <div align="center">
   

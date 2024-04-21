@@ -70,10 +70,11 @@ Always open for connecting and building cool stuff 😎
 
 <br>
 <hr>
-
+<!--
 ## 📝Most Recent Group Projects
 <div align="center"> 
   
+<!--
 |Project                 | Tech Stack                    | Repo                              |  Link                       |   Collaborators                                              |
 |:-----------------------|:------------------------------|:----------------------------------|:------------------------------------|:----------------------------------------------------|
 | EduTaskHub - Simplify Coursework  |  Still In Development... Azure, C#, ASP.NET, XUnit   | [Github](https://github.com/adamalrasi/edutaskhub)     | [Demo](https://edutaskhub.azurewebsites.net/)                               | [Jade Wilson](https://github.com/Jade-Codes)                                            |
@@ -88,16 +89,11 @@ Always open for connecting and building cool stuff 😎
 | API & End-to-end Testing      |  Node.js, TDD (Test-Driven Development), Playwright, Supertest, Vitest | [Private Github](https://github.com/adamalrasi)     | [None]() | [Martina Zurli](https://github.com/MartiZu),  [Rad Swierkowski](https://github.com/radswar)                                       |
   
 </div>
-
-<!--
-<a> 
-    <a href="https://github.com/adamalrasi"><img alt="Adam Alrasi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adamalrasi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/adamalrasi"><img alt="Adam Alrasi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adamalrasi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a> -->
+==
 
 
 <br>
+-->
 <br>
 
 ![Adam Alrasi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamalrasi&custom_title=Adam%20Alrasi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
